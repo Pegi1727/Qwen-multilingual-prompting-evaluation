@@ -1,0 +1,6 @@
+﻿category,n,percent
+other_semantics_unresolved,669,66.9
+gold_present_semantics_unresolved,206,20.599999999999998
+exact_correct,109,10.9
+wrong_standalone_symbol_or_formula,15,1.5
+correct_minor_format,1,0.1
