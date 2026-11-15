@@ -1,0 +1,7 @@
+﻿file,review_number,old_label,new_label,reason
+qwen_labels_601_1000_final.csv,782,ترکیبی,غلط,User confirmed correction: unit name supplied instead of requested symbol s.
+qwen_labels_601_1000_final.csv,788,ترکیبی,غلط,User confirmed correction: unit name supplied instead of requested symbol s.
+qwen_labels_601_1000_final.csv,790,ترکیبی,غلط,User confirmed correction: unit name supplied instead of requested symbol s.
+qwen_1000_user_content_labels.csv,782,ترکیبی,غلط,User confirmed correction: unit name supplied instead of requested symbol s.
+qwen_1000_user_content_labels.csv,788,ترکیبی,غلط,User confirmed correction: unit name supplied instead of requested symbol s.
+qwen_1000_user_content_labels.csv,790,ترکیبی,غلط,User confirmed correction: unit name supplied instead of requested symbol s.
