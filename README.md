@@ -229,6 +229,8 @@ The following minimal BibTeX entry provides the verified title, version, and ide
 
 For questions, corrections, or reproducibility reports, use the repository's [Issues page](https://github.com/Pegi1727/Qwen-multilingual-prompting-evaluation/issues), if enabled. Please identify the release, relevant file, and steps needed to reproduce the issue. Do not include private or sensitive information in public reports.
 
+Pegah.merrikhiii@gmail.com
+
 ## License
 
 Consult the license supplied with the repository and the license metadata on the Zenodo record before reusing materials. Public accessibility alone does not establish permission for unrestricted reuse. No additional license is granted by this README.
