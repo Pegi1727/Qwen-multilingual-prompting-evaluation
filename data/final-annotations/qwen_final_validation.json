@@ -1,0 +1,18 @@
+{
+  "rows": 1000,
+  "unique_review_numbers": 1000,
+  "format_missing": 0,
+  "existing_format_conflicts": 0,
+  "content_counts": {
+    "غلط": 504,
+    "درست": 327,
+    "نامفهوم": 104,
+    "ترکیبی": 65
+  },
+  "format_counts": {
+    "رعایت‌نشده": 633,
+    "رعایت‌شده": 367
+  },
+  "C1_analysis_language": "en; source language tag tr retained unchanged",
+  "scope": "Descriptive summaries only; language aggregates are not causal language comparisons."
+}
