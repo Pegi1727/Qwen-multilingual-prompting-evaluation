@@ -117,45 +117,43 @@ Two-sided exact McNemar tests used **99 matched items per comparison**. Holm cor
 - All nine baseline comparisons remained significant at the Holm-adjusted 0.05 threshold, with higher strict exact match for C1.
 - None of the nine within-condition language comparisons was significant after correction.
 - Nonsignificance does **not** establish language equivalence.
-- These tests do not provide inferential evidence about the human-rated outcomes.
-## Figures
+- These tests do not provide inferential evidence about the human-rated outcomes.## Figures
 
-The images below are linked directly from the repository root. Figure numbering follows the existing file names.
+The figures are stored in the `figures/` directory. Figure numbering follows the existing file names.
 
 | Figure | File |
 | --- | --- |
-| Figure 1 | [Figure_1_Metric_Comparison.png](./Figure_1_Metric_Comparison.png) |
-| Figure 2 | [Figure_2_Content_Distribution.png](./Figure_2_Content_Distribution.png) |
-| Figure 3 | [Figure_3_Exact_Match_Confidence_Intervals.png](./Figure_3_Exact_Match_Confidence_Intervals.png) |
-| Figure 4 | [Figure_4_Language_Specific_Outcomes.png](./Figure_4_Language_Specific_Outcomes.png) |
-| Figure 5 | [Figure_5_Content_by_Format.png](./Figure_5_Content_by_Format.png) |
-| Graphical abstract | [Qwen_Graphical_Abstract_99_Items.png](./Qwen_Graphical_Abstract_99_Items.png) |
+| Figure 1 | [Figure_1_Metric_Comparison.png](./figures/Figure_1_Metric_Comparison.png) |
+| Figure 2 | [Figure_2_Content_Distribution.png](./figures/Figure_2_Content_Distribution.png) |
+| Figure 3 | [Figure_3_Exact_Match_Confidence_Intervals.png](./figures/Figure_3_Exact_Match_Confidence_Intervals.png) |
+| Figure 4 | [Figure_4_Language_Specific_Outcomes.png](./figures/Figure_4_Language_Specific_Outcomes.png) |
+| Figure 5 | [Figure_5_Content_by_Format.png](./figures/Figure_5_Content_by_Format.png) |
+| Graphical abstract | [Qwen_Graphical_Abstract_99_Items.png](./figures/Qwen_Graphical_Abstract_99_Items.png) |
 
 ### Graphical abstract
 
-![Graphical abstract for the revised 99-item Qwen multilingual prompting evaluation](./Qwen_Graphical_Abstract_99_Items.png)
+![Graphical abstract](./figures/Qwen_Graphical_Abstract_99_Items.png)
 
-*Overview of the study design and revised analysis. Human-rated outcomes and strict exact match are distinct; findings are subject to single-evaluator and study-design limitations.*
+### Figure 1. Metric comparison
 
-### Figure 1. Content correctness and format compliance
+![Figure 1. Metric comparison](./figures/Figure_1_Metric_Comparison.png)
 
-![Manuscript Figure 1: Content correctness and format compliance](./Figure_5_Content_by_Format.png)
+### Figure 2. Content distribution
 
-### Figure 2. Human-rated content distribution
+![Figure 2. Content distribution](./figures/Figure_2_Content_Distribution.png)
 
-![Manuscript Figure 2: Human-rated content distribution](./Figure_2_Content_Distribution.png)
+### Figure 3. Strict exact match and confidence intervals
 
-### Figure 3. Comparison of evaluation measures
-
-![Manuscript Figure 3: Comparison of evaluation measures](./Figure_1_Metric_Comparison.png)
+![Figure 3. Strict exact match and confidence intervals](./figures/Figure_3_Exact_Match_Confidence_Intervals.png)
 
 ### Figure 4. Language-specific outcomes
 
-![Manuscript Figure 4: Language-specific outcomes](./Figure_4_Language_Specific_Outcomes.png)
+![Figure 4. Language-specific outcomes](./figures/Figure_4_Language_Specific_Outcomes.png)
 
-### Figure 5. Strict exact match and confidence intervals
+### Figure 5. Content correctness and format compliance
 
-![Manuscript Figure 5: Strict exact-match estimates with confidence intervals](./Figure_3_Exact_Match_Confidence_Intervals.png)
+![Figure 5. Content correctness and format compliance](./figures/Figure_5_Content_by_Format.png)
+
 
 ## Conclusion
 
