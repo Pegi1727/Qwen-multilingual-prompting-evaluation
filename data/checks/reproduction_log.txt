@@ -1,0 +1,40 @@
+{
+  "excluded_item": "Q087",
+  "exclusion_reason": "Question asks for the name of Earth’s natural satellite, but original gold is natural satellite; original C4 contexts carry the defective reference. Exclusion applies to all conditions and languages.",
+  "decision_timing": "Post-hoc, following inspection of the original results and an external review conversation; not preregistered.",
+  "original_executions": 1200,
+  "retained_executions": 1188,
+  "original_human_annotations": 1000,
+  "retained_human_annotations": 990,
+  "retained_items": 99,
+  "paired_n": 99,
+  "new_reruns_integrated": false,
+  "labels_changed": false,
+  "strict_comparison_verified": true,
+  "baseline_significant_holm": 9,
+  "within_condition_language_significant_holm": 0,
+  "human_summary": {
+    "n": 990,
+    "correct_n": 321,
+    "correct_pct": 32.42424242424242,
+    "incorrect_n": 501,
+    "incorrect_pct": 50.60606060606061,
+    "mixed_n": 65,
+    "mixed_pct": 6.565656565656566,
+    "unintelligible_n": 103,
+    "unintelligible_pct": 10.404040404040405,
+    "format_compliant_n": 362,
+    "format_compliant_pct": 36.56565656565657,
+    "correct_and_compliant_n": 130,
+    "correct_and_compliant_pct": 13.131313131313133
+  }
+}
+                  group    n  correct  accuracy_percent
+all_executions_weighted 1188      175         14.730640
+        C1_deduplicated  990      109         11.010101
+                     C1  297       99         33.333333
+                     C2  297        1          0.336700
+                     C3  297       57         19.191919
+                     C4  297       18          6.060606
+
+STDERR:
