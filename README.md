@@ -118,18 +118,17 @@ Two-sided exact McNemar tests used **99 matched items per comparison**. Holm cor
 - None of the nine within-condition language comparisons was significant after correction.
 - Nonsignificance does **not** establish language equivalence.
 - These tests do not provide inferential evidence about the human-rated outcomes.
-
 ## Figures
 
-The images below are linked directly from the **repository root**, alongside this README. File-name numbering reflects the original export order and differs from manuscript figure numbering.
+The images below are linked directly from the repository root. Figure numbering follows the existing file names.
 
-| Manuscript figure | File |
+| Figure | File |
 | --- | --- |
-| Figure 1 | [Figure_5_Content_by_Format.png](./Figure_5_Content_by_Format.png) |
+| Figure 1 | [Figure_1_Metric_Comparison.png](./Figure_1_Metric_Comparison.png) |
 | Figure 2 | [Figure_2_Content_Distribution.png](./Figure_2_Content_Distribution.png) |
-| Figure 3 | [Figure_1_Metric_Comparison.png](./Figure_1_Metric_Comparison.png) |
+| Figure 3 | [Figure_3_Exact_Match_Confidence_Intervals.png](./Figure_3_Exact_Match_Confidence_Intervals.png) |
 | Figure 4 | [Figure_4_Language_Specific_Outcomes.png](./Figure_4_Language_Specific_Outcomes.png) |
-| Figure 5 | [Figure_3_Exact_Match_Confidence_Intervals.png](./Figure_3_Exact_Match_Confidence_Intervals.png) |
+| Figure 5 | [Figure_5_Content_by_Format.png](./Figure_5_Content_by_Format.png) |
 | Graphical abstract | [Qwen_Graphical_Abstract_99_Items.png](./Qwen_Graphical_Abstract_99_Items.png) |
 
 ### Graphical abstract
