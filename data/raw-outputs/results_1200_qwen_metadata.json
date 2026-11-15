@@ -1,0 +1,8 @@
+{
+  "input_sha256": "a765de8354f3a3352ca7d115930562eb7d0abd838034a7a9ef620f9b13231407",
+  "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "max_new_tokens": 64,
+  "do_sample": false,
+  "chat_template": true,
+  "context_format": "Context:\\n{context}\\n\\nQuestion:\\n{prompt}"
+}
